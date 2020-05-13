@@ -1,6 +1,6 @@
 const inputOne = document.querySelector('#input1') as HTMLInputElement
 const inputTwo = document.querySelector('#input2') as HTMLInputElement
-const resultInput = document.querySelector('#inputResult') as HTMLInputElement
+const resultInput = document.querySelector('#input3') as HTMLInputElement
 const submitButton = document.querySelector('button')
 
 function addNumbers(num1: number, num2: number): number {
